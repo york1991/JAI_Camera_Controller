@@ -1,0 +1,13 @@
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\JAI_Controller.exe.config
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\JAI_Controller.exe
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\JAI_Controller.pdb
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\log4net.dll
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\Jai_FactoryDotNET.pdb
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\Jai_FactoryDotNET.xml
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\bin\Debug\log4net.xml
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.csprojResolveAssemblyReference.cache
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.Form1.resources
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.Properties.Resources.resources
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.csproj.GenerateResource.Cache
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.exe
+F:\同步盘\百度云同步盘\同步文件夹\Work\Code\JAI_Controller\JAI_Controller\obj\Debug\JAI_Controller.pdb
